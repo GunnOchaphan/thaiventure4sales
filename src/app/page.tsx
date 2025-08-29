@@ -1,4 +1,4 @@
-import ListingCard from "@/components/ListingCard";
+
 import { getListings } from '@/lib/airtable';
 import HomeClient from './HomeClient';
 
