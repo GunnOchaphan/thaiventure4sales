@@ -40,7 +40,7 @@ export default function HomeClient({ listings }: HomeClientProps) {
       {/* Left - Text on white bg */}
       <div className="flex flex-col justify-center px-10 bg-white text-left">
         <h1 className="text-4xl font-extrabold mb-4 text-gray-900">
-          Thailand's business that makes money
+          Thailand&apos;s business that makes money
         </h1>
         <p className="text-lg text-gray-700 mb-6">
           Buy and sell businesses with ease on our platform. <br />
@@ -80,4 +80,5 @@ export default function HomeClient({ listings }: HomeClientProps) {
       </div>
     </section>
   );
+
 }
